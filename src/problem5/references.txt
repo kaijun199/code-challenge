@@ -1,0 +1,6 @@
+https://trufflesuite.com/guides/ultimate-guide-to-truffle-the-gateway-to-full-stack-blockchain-development/truffle version
+https://www.alchemy.com/overviews/sepolia-testnet
+https://hashnode.com/post/how-to-set-up-your-metamask-wallet-and-get-fake-eth-cl44w34zj01o3kfnv8wktbftc
+https://sepoliafaucet.com/
+https://solidity-by-example.org/app/erc20/
+https://www.linkedin.com/pulse/creating-erc20-token-simple-way-using-solidity-roni-sommerfeld/
